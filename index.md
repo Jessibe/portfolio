@@ -3,12 +3,13 @@
 (poner about me aquí) Soy Joali Gamboa y ...
 
 ## Portafolio
-![38584396-cb87c602-3cdb-11e8-9489-1055fa78c59e](https://user-images.githubusercontent.com/32858124/38707284-6d1b934a-3e76-11e8-8527-73666c7d6635.png)
 (3 mejores proyectos)
 BBVA BANCOMER
 Save The Children
 FundMusic
 (Poner en cada repo un proyecto y link)
+![38584396-cb87c602-3cdb-11e8-9489-1055fa78c59e](https://user-images.githubusercontent.com/32858124/38707284-6d1b934a-3e76-11e8-8527-73666c7d6635.png)
+
 
 ## Contacto
 
