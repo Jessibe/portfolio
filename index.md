@@ -2,7 +2,7 @@
 
 (poner about me aquí) Soy Joali Gamboa y ...
 
-##Portfolio
+## Portafolio
 
 # BBVA Plan
 
