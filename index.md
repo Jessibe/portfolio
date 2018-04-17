@@ -12,7 +12,7 @@
 
 ## Elaborado por Joali Gamboa [Ver más](https://github.com/Jessibe/BBVAPlanCobraUnit/blob/master/README.md)
 
-
+<hr>
 
 # Save The Children
 
@@ -20,6 +20,7 @@
 
 ## Elaborado por Joali Gamboa [Ver más](https://github.com/Jessibe/save_the_children-/blob/master/README.md)
 
+<hr>
 
 # FundMusic
 
@@ -27,10 +28,11 @@
 
 ## Elaborado por Joali Gamboa [Ver más](https://github.com/Jessibe/fundmusic_/blob/master/README.md)
 
+<hr>
 
 ## Contacto [Joali Gamboa](jessiragag@gmail.com)
 
-
+<hr>
 
 ### Jekyll Themes
 
