@@ -1,13 +1,13 @@
+## Sobre mí
+
+(poner about me aquí) Soy Joali Gamboa y ...
+
 # BBVA Plan
 
 ![BBVA Plan](https://raw.githubusercontent.com/Samahara/BBVAPlanCobraUnit/master/assets/images/bbva-plan.png)
 
-## Elaborado para Laboratoria [Joali Gamboa](http://www.laboratoria.la/)
+## Elaborado para Laboratoria [Joali Gamboa](https://github.com/Jessibe/BBVAPlanCobraUnit)
 
-
-## Sobre mí
-
-(poner about me aquí) Soy Joali Gamboa y ...
 
 ## Portafolio
 
