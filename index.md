@@ -26,9 +26,8 @@
 ## Elaborado por Joali Gamboa [Ver más](https://github.com/Jessibe/fundmusic_/blob/master/README.md)
 
 
-## Contacto
+## Contacto [Joali Gamboa](jessiragag@gmail.com)
 
-## [Joali Gamboa](jessiragag@gmail.com)
 
 
 ### Jekyll Themes
