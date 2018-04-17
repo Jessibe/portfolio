@@ -10,7 +10,7 @@
 
 ![BBVA Plan](https://raw.githubusercontent.com/Samahara/BBVAPlanCobraUnit/master/assets/images/bbva-plan.png)
 
-## Elaborado por Joali Gamboa [Ver más](https://github.com/Jessibe/BBVAPlanCobraUnit/blob/master/README.md)
+### Elaborado por Joali Gamboa [Ver más](https://github.com/Jessibe/BBVAPlanCobraUnit/blob/master/README.md)
 
 <hr>
 
@@ -18,7 +18,7 @@
 
 ![stc](https://user-images.githubusercontent.com/32858124/38869919-e7c49e9a-4211-11e8-9e9a-c28dee290a95.png)
 
-## Elaborado por Joali Gamboa [Ver más](https://github.com/Jessibe/save_the_children-/blob/master/README.md)
+### Elaborado por Joali Gamboa [Ver más](https://github.com/Jessibe/save_the_children-/blob/master/README.md)
 
 <hr>
 
@@ -26,7 +26,7 @@
 
 ![fundmusic](https://user-images.githubusercontent.com/32858124/38870680-2b3f64dc-4214-11e8-9011-2cd5ed673024.png)
 
-## Elaborado por Joali Gamboa [Ver más](https://github.com/Jessibe/fundmusic_/blob/master/README.md)
+### Elaborado por Joali Gamboa [Ver más](https://github.com/Jessibe/fundmusic_/blob/master/README.md)
 
 <hr>
 
