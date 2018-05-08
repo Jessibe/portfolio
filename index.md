@@ -10,6 +10,8 @@ Mis capacidades de planificación, empatia y comunicación me permiten adaptarme
 
 ## BBVA Plan
 
+BBVA Plan es una aplicación que te ayuda a crear metas de ahorro personalizado, escogiendo reglas de ahorro a tu gusto de manera gratuita y sin comisiones. 
+
 ![BBVA Plan](https://raw.githubusercontent.com/Samahara/BBVAPlanCobraUnit/master/assets/images/bbva-plan.png)
 
 ### Elaborado por Joali Gamboa [Ver más](https://github.com/Jessibe/BBVAPlanCobraUnit/blob/master/README.md)
