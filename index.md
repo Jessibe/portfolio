@@ -1,6 +1,6 @@
 # Sobre mí
 
-(poner about me aquí) Soy Joali Gamboa y ...
+Soy titulada en Artes Escénicas, carrera que me brindó las herramientas de análisis y pensamiento crítico. Mis capacidades de planificación, empatia y comunicación me permiten adaptarme a diferentes contextos, autogestionarme y desenvolverme en roles de liderazgo.
 
 <hr>
 
