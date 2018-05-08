@@ -1,6 +1,8 @@
 # Sobre mí
 
-Soy titulada en Artes Escénicas, carrera que me brindó las herramientas de análisis y pensamiento crítico. Mis capacidades de planificación, empatia y comunicación me permiten adaptarme a diferentes contextos, autogestionarme y desenvolverme en roles de liderazgo.
+**Mi nombre es Joali Gamboa. Soy egresada de Laboratoria en la especialidad de UX.**
+Soy titulada en Artes Escénicas, carrera que me brindó las herramientas de análisis y pensamiento crítico. 
+Mis capacidades de planificación, empatia y comunicación me permiten adaptarme a diferentes contextos, autogestionarme y desenvolverme en roles de liderazgo.
 
 <hr>
 
