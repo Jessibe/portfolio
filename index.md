@@ -10,7 +10,8 @@ Mis capacidades de planificación, empatia y comunicación me permiten adaptarme
 
 ## BBVA Plan
 
-BBVA Plan es una aplicación que te ayuda a crear metas de ahorro personalizado, escogiendo reglas de ahorro a tu gusto de manera gratuita y sin comisiones. 
+**BBVA Plan es una aplicación que te ayuda a crear metas de ahorro personalizado, escogiendo reglas de ahorro a tu gusto de manera gratuita y sin comisiones.**
+El objetivo de este proyecto fue investigar y desarrollar la oportunidad de que un usuario cuentahabiente Bancomer tenga la opción de agregar la funcionalidad de metas personalizadas. "metas compartidas" en el app de BBVA Plan. También con el objetivo de utilizarlo como una herramienta de crecimiento al buscar involucrar usuarios que no tienen BBVA Plan o una cuenta de BBVA Bancomer.
 
 ![BBVA Plan](https://raw.githubusercontent.com/Samahara/BBVAPlanCobraUnit/master/assets/images/bbva-plan.png)
 
